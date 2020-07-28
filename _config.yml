@@ -1,0 +1,15 @@
+title:    Vikas Dubey 
+logo: "/images/logo.png?raw=true" 
+description: > 
+  Computational Biology | Proteomics | Data Analytics | Machine Learning | Statisical analysis | Hypothesis testing | 
+  <br><br>
+  <a href="https://www.linkedin.com/in/vikas-dubey-701026139/"> <img src="/images/linkedin.png?raw=true" alt="View My LinkenIn Profile"> </a>  
+  <a href="https://github.com/Vikasdubey0551"> <img src="/images/github.png?raw=true" alt="View My LinkenIn Profile"> </a>  
+  <a href="https://www.kaggle.com/vikasdubey055"> <img src="/images/kaggle.png?raw=true" alt="View My Kaggle Profile"> </a>
+  <a  href="mailto:vikas.iiserp@gmail.com"> <img src="/images/gmail.png?raw=true" alt="Email me"> </a>
+  <a  href="https://stackoverflow.com/users/5604562/vikas-dubey"> <img src="/images/stack.png?raw=true" alt="Find me on StackOverflow"> </a>
+  <a  href="https://www.instagram.com/aminordude/"> <img src="/images/insta.png?raw=true" alt="Find me on Instagram"> </a>
+  <br><br>
+  <img src="images/Skills.png?raw=true"/>
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
