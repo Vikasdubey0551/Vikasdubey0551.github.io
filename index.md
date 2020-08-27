@@ -81,7 +81,7 @@ outer ring, this is typically specified as a multiple of rotation speed by the m
  Every time the ball passes over a dent, it will cause a spike in vibration captured by the data acquisition equipment. This wil
 l cause harmonics of the fault frequency(BPFO) to appear in the vibration data. 
 
-In this project I tackle the following tasks :  
+In this project, I tackle the following tasks :  
 
 - Find the difference between a good bearing and a faulty one? and identify the BPFO.
 - Use machine learning techniques to distinguish the good bearing from the faulty one.
