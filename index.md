@@ -11,6 +11,7 @@ Outside the office, I play the piano, compose music, cook, photograph nature, an
   - [Sequence Based Function Prediction](#sequence-based-function-prediction)
   - [Deep Channel Predictor](#deep-channel-predictor)
   - [Time series Forecasting of Power Consumption](#timeseries-forecasting-of-power-consumption)
+  - [Wind Turbine Condition Monitoring with Machine Learning](#conditions-monitoring-ml)
 
 
 ## [Diabetes Detection](http://github.com/Vikasdubey0551/Diabetes-classification-Machine-learning)
@@ -67,3 +68,22 @@ Project contains :
 
 
 ---
+
+## [Wind Turbine Condition Monitoring with Machine Learning](https://github.com/Vikasdubey0551/Conditions-Monitoring-ML)
+
+Ball bearings are a crucial component in any wind turbine. The condition of the ball bearings is monitored to ensure no unexpect
+ed downtime of the turbine. The ball bearings consists of an outer ring, balls, cage and the inner ring. The ball bearing can be damaged in several ways, w
+here the most common is a dent in either the inner or the outer ring.
+
+Such a dent will cause distinct failure frequencies to appear as a function of the rotation speed of the shaft inside the ball b
+earing. The **&quot;Ball Pass Frequency Outer&quot;**(BPFO) is the frequencies which the balls passes over a single dent in the
+outer ring, this is typically specified as a multiple of rotation speed by the manufacturer.
+ Every time the ball passes over a dent, it will cause a spike in vibration captured by the data acquisition equipment. This wil
+l cause harmonics of the fault frequency(BPFO) to appear in the vibration data. 
+
+In this project I tackle the following tasks :  
+
+- Find the difference between a good bearing and a faulty one? and identify the BPFO.
+- Use machine learning techniques to distinguish the good bearing from the faulty one.
+
+<a  href="https://github.com/Vikasdubey0551/Conditions-Monitoring-ML"> <img src="images/title2.png?raw=true" alt="Click to view the project"> </a>
